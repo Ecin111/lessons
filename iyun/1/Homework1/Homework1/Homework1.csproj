@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{07DA54A4-B2B2-4ED9-983B-36A9AF5BD931}</ProjectGuid>
+    <ProjectGuid>{CE1E50E8-ECFC-4C2A-8B9A-D66B11DBC54F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Homework2</RootNamespace>
-    <AssemblyName>Homework2</AssemblyName>
+    <RootNamespace>Homework1</RootNamespace>
+    <AssemblyName>Homework1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
